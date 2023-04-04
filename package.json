@@ -18,6 +18,7 @@
   "homepage": "https://github.com/yahyaeslem/todolist#readme",
   "keywords": [],
   "devDependencies": {
+    "style-loader": "^3.3.2",
     "webpack": "^5.77.0",
     "webpack-cli": "^5.0.1"
   },
